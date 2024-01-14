@@ -1,4 +1,4 @@
-##👋 Hello, I'm Nathan - Full Stack Developer
+👋 ##Hello, I'm Nathan - Full Stack Developer##
 Welcome to my GitHub profile! I'm a passionate and versatile Full Stack Developer with hands-on experience in creating innovative and robust web and mobile applications. From crafting responsive user interfaces to architecting scalable backend solutions, I thrive on bringing ideas to life through code.
 
 🚀 Technologies & Skills
