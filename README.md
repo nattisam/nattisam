@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile Full Stack Develope
 I specialize in a variety of programming languages and technologies:
 
 Languages: C++, JavaScript, Python, PHP, Java, TypeScript, HTML/CSS/SASS, Dart  
-Frameworks: React, React Native, Node.js
+Frameworks: React, React Native, Node.js  
 Databases: Firebase, SQL 
 
 **🔧 What I'm Currently Doing**  
